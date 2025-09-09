@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few reso<img width="1080" height="2424" alt="pdf_viewer" src="https://github.com/user-attachments/assets/2a927e13-228b-4bab-a41b-b5af0094c480" />
+A few reso<img width="250" height="500" alt="pdf_viewer" src="https://github.com/user-attachments/assets/2a927e13-228b-4bab-a41b-b5af0094c480" />
 urces to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
